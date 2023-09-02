@@ -1,0 +1,11 @@
+PROGRAMA ANO_BISSEXTO
+VAR
+  ANO : INTEIRO
+INICIO
+  LEIA ANO
+  SE (N - 4 * (N div 4) = 0) .E. (N - 100 * (N div 100) <> 0) .OU. (N - 400 * (N div 400) = 0) ENTÃO
+    ESCREVA "É BISSEXTO"
+  SENÃO
+    ESCREVA "NÃO É BISSEXTO"
+  FIM_SE
+FIM

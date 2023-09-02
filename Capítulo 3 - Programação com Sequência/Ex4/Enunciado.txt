@@ -1,0 +1,6 @@
+## Cálculo de IMC
+
+Estabelecer a leitura da variável peso (peso em kg).
+Estabelecer a leitura da variável altura (altura em metros).
+Calcular o IMC (imc) como peso dividido pelo quadrado da altura.
+Apresentar o valor do IMC.

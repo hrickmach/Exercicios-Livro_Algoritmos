@@ -1,0 +1,7 @@
+##Cálculo de Desconto em Produto
+
+Estabelecer a leitura da variável PRECO (preço original do produto).
+Estabelecer a leitura da variável DESCONTO (percentual de desconto a ser aplicado).
+Calcular o valor do desconto (VALOR_DESCONTO)
+Calcular o preço final do produto após o desconto (PRECO_FINAL) 
+Apresentar os valores do desconto e do preço final.

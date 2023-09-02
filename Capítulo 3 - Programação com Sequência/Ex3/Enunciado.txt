@@ -1,0 +1,5 @@
+##Conversão de horas para segundos
+
+Estabelecer a leitura da variável HORA (quantidade de horas).
+Calcular o equivalente em segundos (váriavel SEGUNDOS).
+Apresentar o valor em segundos.

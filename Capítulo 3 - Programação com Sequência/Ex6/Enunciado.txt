@@ -1,0 +1,6 @@
+## Cálculo de Lucro
+
+Estabelecer a leitura da variável PRECO_COMPRA (preço de compra do produto).
+Estabelecer a leitura da variável PRECO_VENDA (preço de venda do produto).
+Calcular o lucro obtido (LUCRO).
+Apresentar o valor do lucro.

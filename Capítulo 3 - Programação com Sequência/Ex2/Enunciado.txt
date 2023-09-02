@@ -1,0 +1,8 @@
+##Cálculo de Média Ponderada
+
+Estabelecer a leitura da variável nota1 (primeira nota).
+Estabelecer a leitura da variável peso1 (peso da primeira nota).
+Estabelecer a leitura da variável nota2 (segunda nota).
+Estabelecer a leitura da variável peso2 (peso da segunda nota).
+Calcular a média ponderada (MP)
+Apresentar o valor da média ponderada (MP).

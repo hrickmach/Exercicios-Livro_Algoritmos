@@ -1,0 +1,6 @@
+##Cálculo da Distãncia entre Pontos
+
+Estabelecer a leitura das coordenadas (X1, Y1, Z1) do primeiro ponto.
+Estabelecer a leitura das coordenadas (X2, Y2, Z2) do segundo ponto.
+Calcular a distância entre os pontos usando a fórmula: DISTANCIA = √((x2 - x1)^2 + (y2 - y1)^2 + (z2 - z1)^2).
+Apresentar o valor da distância entre os pontos.

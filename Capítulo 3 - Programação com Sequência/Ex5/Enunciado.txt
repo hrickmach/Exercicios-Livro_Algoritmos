@@ -1,0 +1,8 @@
+## Desconto com Cupom
+
+Estabelecer a leitura da variável PRECO_PRODUTO (preço original do produto).
+Estabelecer a leitura da variável DESCONTO_PRODUTO (percentual de desconto a ser aplicado).
+Estabelecer a leitura da variável CUPOM (valor do desconto extra com um cupom).
+Calcular o valor do desconto total (DESCONTO_TOTAL).
+Calcular o preço final do produto após o desconto (PRECO_FINAL).
+Apresentar os valores do desconto total e do preço final do produto.

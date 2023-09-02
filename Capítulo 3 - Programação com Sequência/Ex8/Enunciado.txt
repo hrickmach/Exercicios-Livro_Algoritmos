@@ -1,0 +1,5 @@
+## Cálculo da média geométrica
+
+Estabelecer a leitura dos dois números inteiros (N1 e N2).
+Calcular a média geométrica MEDIA usando a fórmula: √(número1 * número2).
+Apresentar o valor da média geométrica.

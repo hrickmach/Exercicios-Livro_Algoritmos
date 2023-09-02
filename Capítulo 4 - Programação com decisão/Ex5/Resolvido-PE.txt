@@ -1,0 +1,28 @@
+PROGRAMA CALCULO_IMC
+VAR
+  PESO, ALTURA, IMC : REAL
+INICIO
+  LEIA PESO, ALTURA
+  IMC <- PESO / ALTURA ↑ 2
+  SE (IMC < 18,5) ENTÃO
+    ESCREVA "ABAIXO DO PESO", IMC
+  SENÃO 
+    SE (IMC >= 18,5) .E. (IMC < 25) ENTÃO
+      ESCREVA "PESO NORMAL", IMC
+    SENÃO
+      SE (IMC >= 25) .E. (IMC < 30) ENTÃO
+        ESCREVA "SOBREPESO", IMC
+      SENÃO
+        SE (IMC >= 30) .E. (IMC < 35) ENTÃO
+          ESCREVA "OBESIDADE GRAU 1", IMC
+        SENÃO
+          SE (IMC >= 35) .E. (IMC < 40) ENTÃO
+            ESCREVA "OBESIDADE GRAU 2", IMC
+          SENÃO 
+            ESCREVA "OBESIDADE GRAU 3", IMC
+          FIM_SE
+        FIM_SE
+      FIM_SE
+    FIM_SE
+  FIM_SE
+FIM
