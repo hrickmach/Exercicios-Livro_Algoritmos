@@ -5,4 +5,4 @@ Estes exercícios foram elaborados com o objetivo de aprimorar a compreensão da
 Todos os exercícios estão resolvidos em pseudocódigo "português estruturado" e serão posteriormente diagramados em blocos.
 
 ### Pontos importantes: 
-- A cada capítulo serão elaborados mais 10 exercícios
+- Serão 10 exercícios para cada capítulo do livro
