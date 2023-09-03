@@ -1,0 +1,10 @@
+##Cálculo de Preço de Venda: 
+Escrever um programa que calcule o preço de venda de um produto com 
+base em seu custo e margem de lucro. 
+
+Instruções:
+
+Inserir o custo do produto.
+Inserir a margem de lucro em porcentagem.
+Calcule o preço de venda usando a fórmula Preço de Venda = Custo * (1 + Margem/100).
+Exiba o resultado do cálculo do preço de venda.

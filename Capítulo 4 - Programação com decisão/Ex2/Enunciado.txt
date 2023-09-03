@@ -1,3 +1,5 @@
+## Verificação de quadrado
+
 Efetuar a leitura de quatro valores inteiros representados pelas variáveis A, B, C e D. 
 Verificar se esses valores podem ser os lados de um quadrado. Se sim, apresentar a mensagem
  "É um quadrado"; caso contrário, apresentar a mensagem "Não é um quadrado".

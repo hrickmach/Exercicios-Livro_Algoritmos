@@ -1,0 +1,9 @@
+##Conversão de Temperatura
+
+Escrever um programa que converta uma temperatura fornecida de graus Celsius para graus Fahrenheit ou vice-versa.
+
+Inserir a temperatura em graus Celsius ou Fahrenheit.
+Ler a opção de conversão. 1 - para Celsius e 2 - para Fahrenheit.
+Verificar a escolha e converter a temperatura usando as fórmulas Celsius = (Fahrenheit - 32) * (5/9) 
+ou Fahrenheit = Celsius * (9/5) + 32, dependendo da opção de escolha.
+Exiba o resultado da conversão.

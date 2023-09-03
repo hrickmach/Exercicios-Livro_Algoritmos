@@ -1,3 +1,5 @@
+##Média Ponderada
+
 Crie um programa que leia as notas de um estudante em três diferentes avaliações,
 representadas pelas variáveis nota1, nota2 e nota3. 
 O programa deve calcular a média ponderada das notas, considerando os pesos 2, 3 e 5,

@@ -1,10 +1,10 @@
- ##Verificação de Números Primos
+##Verificação de Números Quadrados Perfeitos
+Escrever um programa que verifique se um número fornecido é um quadrado perfeito ou não. 
 
-Escrever um programa que verifique se um número fornecido pelo usuário é primo ou não.
+Instruções:
 
-Peça ao usuário para inserir um número inteiro.
-Verifique se o número é primo ou não.
+Leia um número inteiro.
+Verifique se o número é um quadrado perfeito ou não.
 Exiba o resultado da verificação.
 
-Nota: 
-Um número é primo se for divisível apenas por 1 e por ele mesmo.
+Nota: Um número é um quadrado perfeito se for o quadrado de um número inteiro. 
