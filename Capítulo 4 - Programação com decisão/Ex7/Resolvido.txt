@@ -9,7 +9,11 @@ INICIO
   SE (OPCAO = 1) ENTÃO
     CONVERSAO <- (N - 32) * (5 / 9)
   SENÃO 
-    CONVERSAO <- N * (9 / 5) + 32
+    SE (OPCAO = 2) ENTÃO
+      CONVERSAO <- N * (9 / 5) + 32
+    SENÃO
+      ESCREVA "OPÇÃO INVÁLIDA"
+    FIM_SE
   FIM_SE
   ESCREVA CONVERSAO
 FIM
