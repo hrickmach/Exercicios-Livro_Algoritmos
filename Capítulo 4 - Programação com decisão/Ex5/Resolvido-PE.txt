@@ -4,10 +4,10 @@ VAR
 INICIO
   LEIA PESO, ALTURA
   IMC <- PESO / ALTURA ↑ 2
-  SE (IMC < 18,5) ENTÃO
+  SE (IMC < 18.5) ENTÃO
     ESCREVA "ABAIXO DO PESO", IMC
   SENÃO 
-    SE (IMC >= 18,5) .E. (IMC < 25) ENTÃO
+    SE (IMC >= 18.5) .E. (IMC < 25) ENTÃO
       ESCREVA "PESO NORMAL", IMC
     SENÃO
       SE (IMC >= 25) .E. (IMC < 30) ENTÃO
