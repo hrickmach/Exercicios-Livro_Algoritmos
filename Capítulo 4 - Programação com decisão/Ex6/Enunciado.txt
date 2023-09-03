@@ -1,0 +1,10 @@
+ ##Verificação de Números Primos
+
+Escrever um programa que verifique se um número fornecido pelo usuário é primo ou não.
+
+Peça ao usuário para inserir um número inteiro.
+Verifique se o número é primo ou não.
+Exiba o resultado da verificação.
+
+Nota: 
+Um número é primo se for divisível apenas por 1 e por ele mesmo.
