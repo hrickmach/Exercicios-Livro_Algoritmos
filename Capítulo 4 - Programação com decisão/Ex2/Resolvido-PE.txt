@@ -3,7 +3,7 @@ VAR
   A, B, C, D : REAL
 INICIO
   LEIA A, B, C, D
-  SE (A = B) .E. (B = C) .E. (C = D) ENTÃO
+  SE (A = B) .E. (C = D) .OU. (A = C) .E. (B = D) .OU. (A = D) .E. (B = C) ENTÃO
     ESCREVA "É UM QUADRADO"
   SENÃO
     ESCREVA "NÃO É UM QUADRADO"
