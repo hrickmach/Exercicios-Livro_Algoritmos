@@ -1,0 +1,11 @@
+PROGRAMA VOGAL_CONSOANTE
+VAR 
+  LETRA : CARACTERE
+INICIO
+  LEIA LETRA
+  SE (LETRA = "A") .OU. (LETRA = "E") .OU. (LETRA = "I") .OU. (LETRA = "O") .OU. (LETRA = "U") ENTÃO
+    ESCREVA "É uma vogal"
+  SENÃO
+    Escreva "É uma consoante"
+  FIM_SE
+FIM

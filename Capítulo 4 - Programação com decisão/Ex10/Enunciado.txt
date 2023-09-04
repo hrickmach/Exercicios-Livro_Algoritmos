@@ -1,0 +1,7 @@
+##Vogal ou Consoante
+
+Leia uma letra (caractere).
+Se a letra for uma vogal (a, e, i, o, u), exiba a mensagem "É uma vogal".
+Caso contrário, exiba a mensagem "É uma consoante".
+
+Nota: desconsidere a letra Y

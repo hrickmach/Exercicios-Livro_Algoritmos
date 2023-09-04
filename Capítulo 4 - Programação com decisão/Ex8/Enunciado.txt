@@ -1,0 +1,8 @@
+##Aprovação com faltas
+
+Leia os valores das quatro notas bimestrais de um aluno (N1, N2, N3 e N4).
+Leia o número de faltas do aluno (FALTAS).
+Calcule a média aritmética dessas notas (MD1).
+Verifique se MD1 é maior ou igual a 7 e se o número de faltas é menor ou igual a 10.
+Se ambas as condições forem atendidas, apresente a mensagem "Aprovado" e a média MD1.
+Caso contrário, apresente a mensagem "Reprovado" e a média MD1.
