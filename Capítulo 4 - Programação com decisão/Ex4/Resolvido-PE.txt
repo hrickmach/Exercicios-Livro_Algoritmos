@@ -3,7 +3,7 @@ VAR
   ANO : INTEIRO
 INICIO
   LEIA ANO
-  SE (N - 4 * (N div 4) = 0) .E. (N - 100 * (N div 100) <> 0) .OU. (N - 400 * (N div 400) = 0) ENTÃO
+  SE (ANO - 4 * (ANO div 4) = 0) .E. (ANO - 100 * (ANO div 100) <> 0) .OU. (ANO - 400 * (ANO div 400) = 0) ENTÃO
     ESCREVA "É BISSEXTO"
   SENÃO
     ESCREVA "NÃO É BISSEXTO"
