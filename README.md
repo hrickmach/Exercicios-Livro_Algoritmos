@@ -6,3 +6,4 @@ Todos os exercícios estão resolvidos em pseudocódigo "português estruturado"
 
 ### Pontos importantes: 
 - Serão 10 exercícios para cada capítulo do livro
+- O diagramas foram feitos na plataforma Lucidchart
