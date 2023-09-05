@@ -1,11 +1,11 @@
-PROGRAMA VERIFICAR_QUADRADO
+PROGRAMA ANO_BISSEXTO
 VAR
-  A, B, C, D : REAL
+  ANO : INTEIRO
 INICIO
-  LEIA A, B, C, D
-  SE (A = B) .E. (C = D) .OU. (A = C) .E. (B = D) .OU. (A = D) .E. (B = C) ENTÃO
-    ESCREVA "É UM QUADRADO"
+  LEIA ANO
+  SE (ANO - 4 * (ANO div 4) = 0) .E. (ANO - 100 * (ANO div 100) <> 0) .OU. (ANO - 400 * (ANO div 400) = 0) ENTÃO
+    ESCREVA "É BISSEXTO"
   SENÃO
-    ESCREVA "NÃO É UM QUADRADO"
+    ESCREVA "NÃO É BISSEXTO"
   FIM_SE
 FIM

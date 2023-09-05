@@ -1,12 +1,6 @@
-## Operações matemáticas
+## Verificação de quadrado
 
-Crie um programa que leia dois números diferentes de zero, representados pelas variáveis A e B.
-Em seguida, leia uma variável OPÇÃO que deve ser um número de 1 a 4. O programa deve
-executar uma operação com base na opção escolhida:
-
-Se a OPÇÃO for 1, o programa deve realizar uma adição entre A e B.
-Se a OPÇÃO for 2, o programa deve realizar uma subtração entre A e B.
-Se a OPÇÃO for 3, o programa deve realizar uma multiplicação entre A e B.
-Se a OPÇÃO for 4, o programa deve realizar uma divisão entre A e B.
-Caso a OPÇÃO seja menor que 1 ou maior do que 4, o programa deve exibir "OPÇÃO INVÁLIDA".
- Ao final, o programa deve mostrar o valor resultante da operação na tela.
+Efetuar a leitura de quatro valores inteiros representados pelas variáveis A, B, C e D. 
+Verificar se esses valores podem ser os lados de um quadrado. Se sim, apresentar a mensagem
+ "É um quadrado"; caso contrário, apresentar a mensagem "Não é um quadrado".
+ 
