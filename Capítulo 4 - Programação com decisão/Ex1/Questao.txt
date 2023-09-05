@@ -1,11 +1,12 @@
-##Média Ponderada
+## Operações matemáticas
 
-Crie um programa que leia as notas de um estudante em três diferentes avaliações,
-representadas pelas variáveis nota1, nota2 e nota3. 
-O programa deve calcular a média ponderada das notas, considerando os pesos 2, 3 e 5,
-respectivamente, para as notas 1, 2 e 3. Em seguida, o programa deve determinar a situação 
-do estudante com base na média calculada, seguindo as seguintes regras:
+Crie um programa que leia dois números diferentes de zero, representados pelas variáveis A e B.
+Em seguida, leia uma variável OPÇÃO que deve ser um número de 1 a 4. O programa deve
+executar uma operação com base na opção escolhida:
 
-Se a média ponderada for maior ou igual a 7, o estudante está "Aprovado".
-Se a média ponderada estiver entre 5 e 7, o estudante está em "Recuperação".
-Se a média ponderada for menor do que 5, o estudante está "Reprovado".
+Se a OPÇÃO for 1, o programa deve realizar uma adição entre A e B.
+Se a OPÇÃO for 2, o programa deve realizar uma subtração entre A e B.
+Se a OPÇÃO for 3, o programa deve realizar uma multiplicação entre A e B.
+Se a OPÇÃO for 4, o programa deve realizar uma divisão entre A e B.
+Caso a OPÇÃO seja menor que 1 ou maior do que 4, o programa deve exibir "OPÇÃO INVÁLIDA".
+ Ao final, o programa deve mostrar o valor resultante da operação na tela.
