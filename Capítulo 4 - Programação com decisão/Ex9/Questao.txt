@@ -2,5 +2,4 @@
 
 Leia um nome de usuário e uma senha.
 Se o nome de usuário for "admin" e a senha for "senha123", exiba a mensagem "Acesso concedido".
-Caso contrário, exiba a mensagem "Acesso negado".
-Ao final, informe a senha e o usuário informado
+Caso contrário, exiba a mensagem "Acesso negado". 

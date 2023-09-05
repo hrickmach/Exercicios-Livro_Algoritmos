@@ -1,11 +1,4 @@
-##Média Ponderada
+## Ano Bissexto
 
-Crie um programa que leia as notas de um estudante em três diferentes avaliações,
-representadas pelas variáveis nota1, nota2 e nota3. 
-O programa deve calcular a média ponderada das notas, considerando os pesos 2, 3 e 5,
-respectivamente, para as notas 1, 2 e 3. Em seguida, o programa deve determinar a situação 
-do estudante com base na média calculada, seguindo as seguintes regras:
-
-Se a média ponderada for maior ou igual a 7, o estudante está "Aprovado".
-Se a média ponderada estiver entre 5 e 7, o estudante está em "Recuperação".
-Se a média ponderada for menor do que 5, o estudante está "Reprovado".
+Escreva um programa que verifique se um ano fornecido é bissexto ou não.
+Um ano é bissexto se for divisível por 4, mas não por 100, a menos que também seja divisível por 400.
