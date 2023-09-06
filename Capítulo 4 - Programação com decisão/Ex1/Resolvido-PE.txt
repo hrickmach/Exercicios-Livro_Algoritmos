@@ -10,9 +10,9 @@ INICIO
     SEJA 2 FAÇA
       ESCREVA A - B
     SEJA 3 FAÇA
-      ESCREVA <- A * B
+      ESCREVA A * B
     SEJA 4 FAÇA
-      ESCREVA <- A / B
+      ESCREVA  A / B
   SENÃO
       ESCREVA "OPÇÃO INVÁLIDA"
   FIM_CASO
