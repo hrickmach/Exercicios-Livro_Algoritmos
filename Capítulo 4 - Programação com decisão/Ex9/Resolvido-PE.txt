@@ -8,5 +8,4 @@ INICIO
   SENÃO
     ESCREVA "Acesso negado"
   FIM_SE
-  ESCREVA USUARIO, SENHA
 FIM
