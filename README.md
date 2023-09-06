@@ -7,3 +7,4 @@ Todos os exercícios estão resolvidos em pseudocódigo "português estruturado"
 ### Pontos importantes: 
 - Serão 10 exercícios para cada capítulo do livro
 - Os diagramas foram feitos na plataforma Lucidchart
+- As resoluções em C# podem ser executadas na plataforma Replit
