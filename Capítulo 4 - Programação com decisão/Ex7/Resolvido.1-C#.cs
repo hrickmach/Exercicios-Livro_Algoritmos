@@ -11,11 +11,11 @@ class Program
 
   if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u')
   {
-   Console.WriteLine("É uma vogal");
+   Console.Write("É uma vogal");
   }
   else
   {
-   Console.WriteLine("É uma consoante");
+   Console.Write("É uma consoante");
   }
  }
 }

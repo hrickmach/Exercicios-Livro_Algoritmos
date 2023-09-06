@@ -21,11 +21,11 @@ class Program
   }
   else if (mp >= 5)
   {
-   Console.WriteLine("Recuperação");
+   Console.Write("Recuperação");
   }
   else
   {
-   Console.WriteLine("Reprovado");
+   Console.Write("Reprovado");
   }
  }
 }

@@ -17,11 +17,11 @@ class Program
 
   if ((a == b && c == d) || (a == c && b == d) || (a == d && b == c))
   {
-   Console.WriteLine("É um quadrado");
+   Console.Write("É um quadrado");
   }
   else
   {
-   Console.WriteLine("Não é um quadrado");
+   Console.Write("Não é um quadrado");
   }
  }
 }

@@ -18,12 +18,12 @@ class Program
   if (opcao == 1)
   {
    conversao = (n - 32) * (5.0 / 9.0);
-   Console.WriteLine(conversao);
+   Console.Write(conversao);
   }
   else if (opcao == 2)
   {
    conversao = n * (9.0 / 5.0) + 32;
-   Console.WriteLine(conversao);
+   Console.Write(conversao);
   }
   else
   {
