@@ -3,7 +3,7 @@ Escrever um programa que verifique se um número (maior do que 0) fornecido é u
 
 Instruções:
 
-Leia um número inteiro.
+Leia um número.
 Verifique se o número é um quadrado perfeito ou não.
 Exiba o resultado da verificação.
 
