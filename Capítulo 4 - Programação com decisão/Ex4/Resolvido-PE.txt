@@ -14,7 +14,9 @@ INICIO
   SENÃO 
     SE (OPCAO = 2) ENTÃO
       CONVERSAO <- N * (9 / 5) + 32
+      ESCREVA CONVERSÃO
     SENÃO
+      ESCREVA "OPÇÃO INVÁLIDA"
     FIM_SE
   FIM_SE
 FIM
