@@ -8,7 +8,6 @@ class Program
 
   Console.WriteLine("Insira o preço: ");
   preco = Convert.ToDouble(Console.ReadLine());
-
   Console.WriteLine("Insira o desconto: ");
   desconto = Convert.ToDouble(Console.ReadLine());
 
