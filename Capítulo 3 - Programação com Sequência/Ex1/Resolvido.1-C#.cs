@@ -15,7 +15,7 @@ class Program
   valor_desconto = preco * desconto / 100;
   preco_final = preco - valor_desconto;
 
-  Console.WriteLine($"Preço final: {preco_fina:F2}");
+  Console.WriteLine($"Preço final: {preco_final:F2}");
   Console.WriteLine($"Valor do desconto: {valor_desconto:F2}");
  }
 }
