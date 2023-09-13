@@ -13,4 +13,6 @@ int main()
  lucro = preco_venda - preco_compra;
 
  std::cout << "Lucro: " << lucro;
+
+ return 0;
 }

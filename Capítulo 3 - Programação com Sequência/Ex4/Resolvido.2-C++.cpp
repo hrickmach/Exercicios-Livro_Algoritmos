@@ -15,4 +15,6 @@ int main()
 
  std::cout << "IMC: "
            << std::fixed << std::setprecision(2) << imc;
+
+ return 0;
 }

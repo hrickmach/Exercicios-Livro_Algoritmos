@@ -14,4 +14,6 @@ int main()
 
  std::cout << "Resultado da conversão: "
            << std::fixed << std::setprecision(2) << conversao;
+
+ return 0;
 }

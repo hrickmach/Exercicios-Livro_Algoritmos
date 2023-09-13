@@ -23,4 +23,6 @@ int main()
  distancia = sqrt(pow((x2 - x1), 2) + pow((y2 - y1), 2) + pow((z2 - z1), 2));
 
  std::cout << "Distância entre os pontos: " << distancia;
+
+ return 0;
 }

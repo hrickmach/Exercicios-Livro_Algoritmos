@@ -14,4 +14,6 @@ int main()
  media_geometrica = sqrt((n1 * n2));
 
  std::cout << "Média geométrica: " << media_geometrica;
+
+ return 0;
 }
