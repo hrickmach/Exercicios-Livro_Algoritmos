@@ -1,0 +1,3 @@
+Escreva um programa que solicita ao usuário que insira números inteiros positivos. 
+O programa deve continuar solicitando números até que o usuário insira um número não positivo (ou seja, zero ou um número negativo). 
+Quando um número não positivo é inserido, o programa deve exibir "VALOR INVÁLIDO" e terminar. 

@@ -1,0 +1,4 @@
+## Multiplicação Número Naturais
+Peça ao usuário que insira um número natural entre 1 e 15 (desconsiderando o 0). 
+Em seguida, calcule a multiplicação de todos os números na faixa escolhida e apresente o resultado. 
+Certifique-se de verificar se o número inserido é realmente um número natural.
