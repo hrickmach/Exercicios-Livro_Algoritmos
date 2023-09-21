@@ -3,7 +3,7 @@
 
 int main()
 {
- int i = 10;
+ int i = 1;
 
  while (i <= 150)
  {

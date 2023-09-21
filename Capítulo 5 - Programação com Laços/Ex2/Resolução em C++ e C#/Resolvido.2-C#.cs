@@ -4,25 +4,13 @@ class Program
 {
  public static void Main(string[] args)
  {
-  int i = 1;
-  int r = 1;
-  int n;
+  int n = 1;
 
-  Console.Write("Insira o valor do número natural entre 1 a 15: ");
-  n = Convert.ToInt32(Console.ReadLine());
-
-  while (i <= n)
+  while (n > 0)
   {
-   if (n > 0)
-   {
-    r = r * i;
-   }
-   else
-   {
-    Console.WriteLine("Número não-natural");
-   }
-   i++;
+   Console.WriteLine("Digite um número inteiro: ");
+   n = Convert.ToInt32(Console.ReadLine());
   }
-  Console.WriteLine(r);
+  Console.WriteLine("Valor inválido");
  }
 }
