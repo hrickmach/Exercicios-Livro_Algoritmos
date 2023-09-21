@@ -1,0 +1,11 @@
+PROGRAMA RAIZ_QUADRADA
+VAR
+  I, R : INTEIRO
+INICIO
+  I <- 1
+  REPITA
+    R <- I ↑ (1 / 2)
+    ESCREVA R
+    I <- I + 1
+  ATÉ_QUE (I > 150)
+FIM
