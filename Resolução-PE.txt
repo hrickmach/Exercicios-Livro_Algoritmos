@@ -1,0 +1,8 @@
+PARA I DE 1 ATÉ 1OO PASSO 1 FAÇA
+  R <- I - 3 * (I DIV 3)
+  SE (R = 0) ENTÃO
+    ESCREVA "FIZZ"
+  SENÃO
+    ESCREVA "BUZZ"
+  FIM_SE
+FIM
