@@ -7,12 +7,12 @@ INICIO
   LEIA N
   ENQUANTO (I <= N) FAÇA
     SE (N > 0) ENTAO
-      R <- R * I
+      M <- M * I
     SENÃO
       ESCREVA "NÚMERO NÃO-NATURAL"
     FIM_SE
     I <- I + 1
   FIM_ENQUANTO
-  ESCREVA R
+  ESCREVA M
 FIM
       

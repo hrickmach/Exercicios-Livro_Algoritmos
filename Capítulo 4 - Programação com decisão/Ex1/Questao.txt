@@ -1,7 +1,7 @@
 ## Operações matemáticas
 
 Crie um programa que leia dois números diferentes de zero, representados pelas variáveis A e B.
-Em seguida, leia uma variável OPÇÃO que deve ser um número de 1 a 4. O programa deve
+Em seguida, leia uma variável OPÇAO que deve ser um número de 1 a 4. O programa deve
 executar uma operação com base na opção escolhida:
 
 Se a OPÇÃO for 1, o programa deve realizar e apresentar uma adição entre A e B.

@@ -6,9 +6,9 @@ INICIO
   LEIA N
   PARA I DE 1 ATÉ N PASSO 1 FAÇA
     SE (N > 0) ENTÃO
-      R <- R * I
+      M <- M * I
     SENÃO 
       ESCREVA "NÚMERO NÃO-NATURAL"
   FIM_PARA
-  ESCREVA R
+  ESCREVA M
 FIM

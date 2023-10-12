@@ -1,0 +1,2 @@
+###
+Construir um programa que apresente a soma dos primeiros 50 números pares.

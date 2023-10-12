@@ -1,0 +1,13 @@
+PROGRAMA EX4CO05
+VAR
+  S, I, R : INTEIRO
+INÍCIO
+  S <- 0
+  PARA I DE 1 ATÉ 50 PASSO 1 FAÇA
+    R <- I - 2 * (I DIV 2)
+    SE (R = 0) ENTÃO
+      S <- S + I
+    FIM_SE
+  FIM_PARA
+  ESCREVA S
+FIM
